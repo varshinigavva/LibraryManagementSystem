@@ -1,0 +1,8 @@
+# Compiled bytecode
+bin/
+*.class
+
+# Temporary files
+*.tmp
+*.bak
+reports/
